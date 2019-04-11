@@ -7,9 +7,9 @@ from wtforms.validators import Required, Length, NumberRange
 
 
 url = 'https://us-south.ml.cloud.ibm.com'
-username = '26356cf2-be95-4e36-a21f-2cd19cf0c423'
-password = '37a18db0-2479-4be8-9bb0-06f8476d39aa'
-scoring_endpoint = 'https://us-south.ml.cloud.ibm.com/v3/wml_instances/3d31d946-55c0-47fa-a3c2-4532ac350664/deployments/f3fbebbd-0cc5-4372-998f-8cad9f98c6a5/online'
+username = '**********'
+password = '**********'
+scoring_endpoint = '*****************'
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secretpassw0rd'
 #bootstrap = Bootstrap(app)
