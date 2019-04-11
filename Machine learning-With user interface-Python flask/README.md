@@ -1,4 +1,4 @@
-# Python Hello World Sample
+# A Boiler plate Python flask web application,intaracting with published Model in IBM cloud and showing Predictions on the result web page. 
 
 This application demonstrates a simple, reusable Python web application.
 
